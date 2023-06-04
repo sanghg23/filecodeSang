@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
             // Sau khi cập nhật dữ liệu trong list, cập nhật lại adapter
             adapter.notifyDataSetChanged();
         }
+        /// nguuu lonnnn
 
 }
 
